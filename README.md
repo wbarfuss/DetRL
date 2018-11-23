@@ -13,3 +13,5 @@
 Barfuss W, Donges JF and Kurths J (2018),
 *Deterministic limit of temporal difference reinforcement learning for stochastic games*,
 Preprint: [arXiv:1809.07225](https://arxiv.org/abs/1809.07225).
+
+code version: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1495091.svg)](https://doi.org/10.5281/zenodo.1495091)
